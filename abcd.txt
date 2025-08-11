@@ -1,1 +1,19 @@
+If you click it:
+You’ll go to a Pull Request creation page.
 
+You can write a title and description for the changes in your feature branch.
+
+You click "Create pull request".
+
+You (or other collaborators) can review the changes.
+
+Click "Merge pull request" to combine the feature branch into main.
+
+💡 Why use Pull Requests?
+Even if you’re the only person working on the repo, PRs are useful for:
+
+Reviewing your changes before merging.
+
+Keeping main stable while developing in other branches.
+
+Documenting the history of changes.
